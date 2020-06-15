@@ -55,7 +55,7 @@ while looping:
 looping = True
 isNumbers = input("Do you want numbers ? (y/n) ")
 numbers = YorN(isNumbers)
-isUpperCase = input("Mix of upperCase and lowerCase characters ? (y/n) ")
+isUpperCase = input("Mix of upper and lower case characters ? (y/n) ")
 upperCase = YorN(isUpperCase)
 
 while looping:
